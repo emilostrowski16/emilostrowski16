@@ -2,7 +2,7 @@
 
 ### Junior Data Analyst | Product Specialist
 
-Pasjonat analizy danych z doświadczeniem w branży gamingowej[cite: 3, 4]. [cite_start]Na co dzień w **BoomBit** wykorzystuję SQL do monitorowania kluczowych metryk produktowych (retencja, ARPU, konwersja) oraz wspierania procesów decyzyjnych poprzez analizę wyników testów A/B.
+Pasjonat analizy danych z doświadczeniem w branży gamingowej. Na co dzień w **BoomBit** wykorzystuję SQL do monitorowania kluczowych metryk produktowych (retencja, ARPU, konwersja) oraz wspierania procesów decyzyjnych poprzez analizę wyników testów A/B.
 
 ---
 
