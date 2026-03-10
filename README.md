@@ -2,22 +2,22 @@
 
 ### Junior Data Analyst | Product Specialist
 
-[cite_start]Pasjonat analizy danych z doświadczeniem w branży gamingowej[cite: 3, 4]. [cite_start]Na co dzień w **BoomBit** wykorzystuję SQL do monitorowania kluczowych metryk produktowych (retencja, ARPU, konwersja) oraz wspierania procesów decyzyjnych poprzez analizę wyników testów A/B[cite: 4, 21, 24].
+Pasjonat analizy danych z doświadczeniem w branży gamingowej[cite: 3, 4]. [cite_start]Na co dzień w **BoomBit** wykorzystuję SQL do monitorowania kluczowych metryk produktowych (retencja, ARPU, konwersja) oraz wspierania procesów decyzyjnych poprzez analizę wyników testów A/B.
 
 ---
 
-### [cite_start] Moje Umiejętności Techniczne [cite: 11]
-* [cite_start]**Bazy danych:** SQL (Advanced: CTE, funkcje okna, JOINy) [cite: 12]
-* [cite_start]**Wizualizacja:** Power BI, Grafana (tworzenie interaktywnych dashboardów) [cite: 15, 16]
-* [cite_start]**Analiza:** Testy A/B, analiza retencji i behawioralna użytkowników [cite: 17, 24]
-* [cite_start]**Narzędzia:** Excel / Google Sheets (tabele przestawne, zaawansowane funkcje) [cite: 13, 14]
+### Moje Umiejętności Techniczne
+* **Bazy danych:** SQL (Advanced: CTE, funkcje okna, JOINy)
+* **Wizualizacja:** Power BI, Grafana (tworzenie interaktywnych dashboardów)
+* **Analiza:** Testy A/B, analiza retencji i behawioralna użytkowników
+* **Narzędzia:** Excel / Google Sheets (tabele przestawne, zaawansowane funkcje) 
 
 ---
 
-### [cite_start] Certyfikaty i Edukacja [cite: 48, 52]
-* [cite_start]**Data Analyst Associate** – DataCamp (2025) [cite: 49]
-* [cite_start]**Umiejętności Jutra** – AI, analiza danych, BigQuery (2025) [cite: 50, 51]
-* [cite_start]**Analityka i badania ekonomiczne** – Collegium Da Vinci (w trakcie) [cite: 53, 54, 55]
+### Certyfikaty i Edukacja
+* **Data Analyst Associate** – DataCamp (2025) | [Zobacz Certyfikat](https://www.datacamp.com/certificate/DAA0015708916163)
+* **Umiejętności Jutra** – AI, analiza danych, BigQuery (Google & SGH, 2025) | [Zobacz Certyfikat](https://cdn.umiejetnoscijutra.pl/certificates/37665085-eec1-4182-b178-56aeea9d759b)
+* **Analityka i badania ekonomiczne** – Collegium Da Vinci (w trakcie)
 
 ---
 
@@ -27,5 +27,5 @@
 ---
 
 ### Kontakt
-* [cite_start]**LinkedIn:** [linkedin.com/in/emilostrowski](https://www.linkedin.com/in/emilostrowski) [cite: 10]
-* [cite_start]**E-mail:** emil.ostrowski.16@gmail.com [cite: 8]
+* **LinkedIn:** [linkedin.com/in/emilostrowski](https://www.linkedin.com/in/emilostrowski)
+* **E-mail:** emil.ostrowski.16@gmail.com
