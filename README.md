@@ -26,6 +26,7 @@ Pasjonat analizy danych z doświadczeniem w branży gamingowej. Na co dzień w *
 
 ### Kluczowe Projekty
 * **[Retail Traffic & Data Quality Monitor](https://github.com/emilostrowski16/sql-data-quality-dashboard)** – System monitorowania ruchu i jakości danych (PostgreSQL + Grafana + Python).
+* **[Sales Performance Analysis](https://github.com/emilostrowski16/Sales_Performance_Analysis)** – WIP (SQL + PowerBI).
 
 ---
 
