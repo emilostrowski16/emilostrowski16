@@ -18,7 +18,7 @@ Pasjonat analizy danych z doświadczeniem w branży gamingowej. Na co dzień w *
 * **Data Analyst Associate** – DataCamp (2025) | [Zobacz Certyfikat](https://www.datacamp.com/certificate/DAA0015708916163)
 * **Associate Data Analyst in SQL (Career Track)** – DataCamp | [Zobacz Poświadczenie](https://www.datacamp.com/completed/statement-of-accomplishment/track/8017d31540e0e6c6938ed87eb201ed356b2e6b01?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink)
 * **Data Analyst in R (Career Track)** – DataCamp | [Zobacz Poświadczenie](https://www.datacamp.com/completed/statement-of-accomplishment/track/99145d591034849e242182a09356e88c05f289c9?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink)
-* **Data Analyst in Power BI** – DataCamp | [Zobacz Poświadczenie](https://www.datacamp.com/completed/statement-of-accomplishment/track/000b38d202d19765f1486564c287af29d00ef256?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
+* **Data Analyst in Power BI (Career Track)** – DataCamp | [Zobacz Poświadczenie](https://www.datacamp.com/completed/statement-of-accomplishment/track/000b38d202d19765f1486564c287af29d00ef256?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
 * **Umiejętności Jutra** – AI, analiza danych, BigQuery (Google & SGH, 2025) | [Zobacz Certyfikat](https://cdn.umiejetnoscijutra.pl/certificates/37665085-eec1-4182-b178-56aeea9d759b)
 * **Analityka i badania ekonomiczne** – Collegium Da Vinci (w trakcie)
 
