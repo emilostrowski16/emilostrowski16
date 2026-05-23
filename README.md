@@ -1,6 +1,6 @@
 # Hi there, I'm Emil Ostrowski!
 
-### Junior Data Analyst | Product Specialist
+### Data Analyst | Product Specialist
 
 Pasjonat analizy danych z doświadczeniem w branży gamingowej. Na co dzień w **BoomBit** wykorzystuję SQL do monitorowania kluczowych metryk produktowych (retencja, ARPU, konwersja) oraz wspierania procesów decyzyjnych poprzez analizę wyników testów A/B.
 
