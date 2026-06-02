@@ -2,7 +2,7 @@
 
 ### Data Analyst | Product Specialist
 
-Pasjonat analizy danych z doświadczeniem w branży gamingowej. Na co dzień w **BoomBit** monitoruję kluczowe metryki produktowe (retencja, ARPU, konwersja) oraz wspieram procesy decyzyjne poprzez analizę wyników testów A/B. Kompetencje twarde, takie jak zaawansowany SQL (PostgreSQL, BigQuery) czy Python, rozwijam i wykorzystuję przy realizacji projektów analitycznych (data pipelines & dashboarding).
+Pasjonat analizy danych z doświadczeniem w branży gamingowej. Na co dzień w BoomBit monitoruję kluczowe metryki produktowe (retencja, ARPU, konwersja) oraz wspieram procesy decyzyjne poprzez analizę wyników testów A/B. Kompetencje twarde, takie jak zaawansowany SQL (PostgreSQL, BigQuery) czy Python, rozwijam i wykorzystuję przy realizacji projektów analitycznych (data pipelines & dashboarding).
 ---
 
 ### Moje Umiejętności Techniczne
